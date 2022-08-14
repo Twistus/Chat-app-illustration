@@ -332,7 +332,7 @@ input[type="radio"],
 
 .message-input {
 
-	margin-block: 1rem 0.5rem;
+	margin-block: 0.5rem;
 	position: relative;
 	max-width: 100%;
 }
