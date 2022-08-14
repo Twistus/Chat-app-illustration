@@ -141,18 +141,6 @@ body::before {
 	background-image: var(--bg-image);
 }
 
-body::after {
-	z-index: -1;
-	position: absolute;
-	content: "";
-	bottom: 0;
-	right: 0;
-	transform: translatey(20rem);
-	width: 30rem;
-	height: 42rem;
-	border-radius: 50% 50% 0 0;
-	background-color: var(--clr-placeholder);
-}
 
 .container {
 	margin-inline: auto;
